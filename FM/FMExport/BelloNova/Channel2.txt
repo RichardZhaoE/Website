@@ -1,0 +1,33 @@
+February 10, 2014 11:24:44 AM%&
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2030007%&Return Scroll for Dead Mine%&Returns you to the dead mine at the higher ground of El Nath. Can only be used in Orbis and El Nath.%&17%&1%&2222222
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&4001017%&Eye of Fire%&A manmade seed of Zakum tree, which is actually sealed up. Used as the sacrifice to the altar.%&17%&1%&6666666
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&4031179%&Piece of Cracked Dimension%&A piece of the cracked dimension that Papulatus used to enter this world. Use this piece to seal up the cracks of dimension.%&5%&1%&666666
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&SOLD%&1%&1500000
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&4011002%&Mithril Plate%&Solid, light, refined mithril. Used for level 5 equipment, accessory, and alchemy crafting.%&88%&1%&3333333
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&4011001%&Steel Plate%&Tough, refined steel. Used for level 3 equipment, accessory, and alchemy crafting.%&88%&1%&333333
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&SOLD%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&SOLD%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&SOLD%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&SOLD%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&SOLD%&1%&1999
+PixeIStore%&PixelWorld%&~~ Pixel Store ~~ DM & EoF & More%&Store Permit%&2%&1%&4006000%&The Magic Rock%&A mythical rock with the power of magic in it. Used with high-leveled skills.%&100%&1%&6999
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&4021014%&Intermediate Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 70- 90 items.%&246%&1%&229999
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&4021015%&Advanced Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 100- 120 items.%&1000%&1%&119999
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&4023020%&Juniper Berry Flower Oil%&Juniper berry flower oil. Used in Lv. 10 Alchemy.%&124%&1%&199999
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&2049401%&Potential Scroll%&Provides potential for regular equipment items without deducting from the available upgrade count.  Can only be used on regular items.  Success Rate: 70%. Item destroyed on failure.%&28%&1%&4499999
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&4007005%&Magic Powder (Purple)%&A purple magic powder used for level 10 crafting.%&20%&1%&2999999
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1022211%&Sweetwater Glasses%&%&1%&1%&679999999%&%&<br>(Epic Item)<br>STR: +7%<br>MaxHP: +125
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1102451%&Void Aura%&%&1%&1%&219999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1112906%&Baby Pink Heart%&%&1%&1%&479999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1102378%&Psyche Melody%&%&1%&1%&84999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1003279%&Chain Crusher Cap%&%&1%&1%&65999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1072647%&Kerning Engineering School Shoes%&%&1%&1%&45999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1072648%&Ellinia Magic School Shoes%&%&1%&1%&45999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1102380%&Frog Cronies%&%&1%&1%&65999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1492172%&Pinnacle Queen's Finger%&%&1%&1%&3999999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1442211%&Pinnacle Halfmoon%&%&1%&1%&2599999%&%&<br>
+ranger7712%&Cobra%&"Passerby"~Awaken~ily baby svm<3Noab<33AFK%&Store Permit%&2%&1%&1342066%&Necro Katara%&%&1%&1%&2799999%&%&<br>(Epic Item)<br>ATT: +3%<br>DEX: +3%

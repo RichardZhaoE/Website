@@ -1,0 +1,227 @@
+January 29, 2014 10:15:31 AM%&
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&8999999%&%&<br>
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&3999999%&%&<br>
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&3999999%&%&<br>
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&2470001%&Golden Hammer 50%%&A hammer that provides you a 50% chance to apply one additional scroll to your equipment item. Only 1 hammer can be used per item, and any failed attempts will cost 1 upgrade slot.%&3%&1%&19999999
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&2432337%&Sealed Cubic Chaos Blade%&Use this to get a powerful cubic chaos blade. %&1%&1%&9999999
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&4021031%&Twisted Time%&This rock is so powerful, it can bend time and space. Normal rocks can do that too, but you have to throw them really hard. Used for making powerful equipment and potions. Can be obtained from all monsters at Level 95 or above.%&18%&1%&999999
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&4021036%&Cube Fragment%&A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be received by extracting Master Craftsman's Cubes, and by mining and from mob/boss drops and used to make Master Craftsman's Cubes and Renowned Master Craftsman's Cubes.%&57%&1%&999999
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&14%&1%&999999
+L1ttl3dem0n9%&%&Crystal, Scroll, Gollux items%&Mushroom Elf House%&2%&1%&4021021%&Philosopher's Stone%&This odd stone looks solid but shifts like a liquid. It's chock full of Alchemical potential. There's a small chance of finding it by extracting Level 105 or higher equipment. The higher the equipment's level, the higher the chance.%&1%&1%&2999999
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&1051105%&Green Armis%&%&1%&1%&94999999%&%&<br>-----Hidden Potential----
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&1052318%&Shark Tooth Skipper Coat%&%&1%&1%&13999999%&%&<br>
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&1052524%&Purple Senior Suit%&%&1%&1%&3999999%&%&<br>----Potential----<br>LUK: +4%, Weapon DEF: +60
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&3010073%&Giant Pink Bean Cushion%&A cushion that resembles Pink Bean, the underling of the Black Mage. Leaning against the cushion and resting will recover 50 HP and 30 MP every 10 seconds. %&1%&1%&59999999
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&3010126%&Balrog Chair%&A chair that resembles Balrog, an ancient demon that is rumored to be found deep inside Sleepywood Dungeon. When you sit in this menacing chair, 60 HP and 60 MP will be restored every 10 seconds.%&1%&1%&55555555
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&3062270%&[B] Nebulite (All Damage %)%&A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.   * Fits on weapons with an empty socket only. * Total Damage : +3% %&1%&1%&79999999
+4Black9%&leepinForest%&halp pay deh rent pls%&Store Permit%&2%&1%&1672015%&Garnet Heart (Permanent)%&%&1%&1%&74999999%&%&<br>
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1522094%&Fafnir Dual Windwing%&%&1%&1%&2222222222%&%&<br>----Potential----<br>Critical Rate: +8%, 5% chance to apply Lv 2 Seal when attacking, Avoidability: +48
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&1%&1%&529999999%&%&<br>----Potential----<br>DEX: +6%, DEX: +4%, LUK: +4%<br>----Hidden Bonus Potential----<br>Tagged By: 8whisper8
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&1%&1%&288888888%&%&<br>----Potential----<br>DEX: +4%, DEX: +4%, Avoidability: +28<br>----Hidden Bonus Potential----<br>----Nebulite----<br>[C] DEX : +1%<br>Tagged By: aNobleCookie
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1672053%&Lidium Heart (Permanent)%&%&1%&1%&799999999%&%&<br>----Potential----<br>MaxHP: +1%, MaxHP: +15
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1662003%&Deluxe Android (F)%&%&1%&1%&188888888%&%&<br>Tagged By: DemonGQQK
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1042258%&Eagle Eye Wanderer Coat%&%&1%&1%&109999999%&%&<br>----Potential----<br>MaxHP: +120, INT: +12
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&2470001%&Golden Hammer 50%%&A hammer that provides you a 50% chance to apply one additional scroll to your equipment item. Only 1 hammer can be used per item, and any failed attempts will cost 1 upgrade slot.%&SOLD%&1%&12999999
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&1%&1%&299999999%&%&<br>----Potential----<br>LUK: +4%, LUK: +4%<br>Tagged By: NashorSteven
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&SOLD%&1%&22222222%&%&<br>----Potential----<br>LUK: +4%, Recover 14 MP every 4 seconds, Weapon DEF: +4%<br>Tagged By: XBieclX
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&SOLD%&1%&18888888%&%&<br>----Potential----<br>DEX: +4%, Weapon DEF: +4%, LUK: +2%<br>Tagged By: Onnas
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&4007005%&Magic Powder (Purple)%&A purple magic powder used for level 10 crafting.%&6%&1%&1299999
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&4021042%&Cubic Chaos Blade%&A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and used for making Renowned Master Craftsman's Cubes.%&6%&1%&7999999
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&4330007%&8 Slot Mineral Bag%&A 8 slot bag for first-phase minerals and jewels.%&1%&1%&12999999
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1003801%&Royal Wanderer Hat%&%&1%&1%&333333333%&%&<br>----Potential----<br>All Stats: +5, DEX: +6
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1082296%&Dragon Tail Mage Gloves%&%&1%&1%&19999999%&%&<br>----Potential----<br>DEX: +12, LUK: +6
+FatalPummel%&HaIf%&LNO BUDDY ME%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&SOLD%&1%&2888888%&%&<br>----Potential----<br>Recover 14 HP every 4 seconds, DEX: +2%, Recover 14 MP every 4 seconds<br>Tagged By: ZeroLife96
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1012304%&Agile Tree Branch Nose%&%&1%&1%&8999999999%&*%&<br>----Potential----<br>Weapon DEF: +1%, STR: +1, MaxMP: +5
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1003692%&Spiderweb Pointy Hat%&%&1%&1%&299999999%&%&<br>----Potential----<br>Weapon DEF: +4%, MaxHP: +50, Avoidability: +20<br>Tagged By: PeriodicNo54
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1190201%&Hybrid Heart%&%&1%&1%&3999999999%&%&<br>-----Hidden Potential----<br>----Nebulite----<br>[A] All Stats : +3%
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1412135%&Fafnir Battle Cleaver%&%&1%&1%&324999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&64999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&34999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&34999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&19999999%&%&<br>-----Hidden Potential----
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&14999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1412065%&Lionheart Battle Axe%&%&1%&1%&99999999%&%&<br>----Potential----<br>Avoidability: +9%, 3% chance to recover 53 HP when attacking
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1302152%&Lionheart Cutlass%&%&1%&1%&14999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1522018%&Falcon Wing Dual Bowguns%&%&1%&1%&14999999%&%&<br>
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1132243%&Cracked Engraved Gollux Belt%&%&1%&1%&4999999%&%&<br>-----Hidden Potential----
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1112748%&Tempest Ring%&%&1%&1%&39999999%&%&<br>----Potential----<br>MaxHP: +3%, DEX: +12<br>Tagged By: ParasiteCD
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1112748%&Tempest Ring%&%&1%&1%&39999999%&%&<br>----Potential----<br>Magic DEF: +3%, MaxMP: +3%<br>Tagged By: xInDiGox
+zomgwtfgtfo%&%&goodies...%&Store Permit%&2%&1%&1112748%&Tempest Ring%&%&1%&1%&39999999%&%&<br>----Potential----<br>MaxHP: +6%, Weapon DEF: +3%
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1662002%&Deluxe Android (M)%&%&1%&1%&269999999%&%&<br>Tagged By: JDPsySamurai
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1132258%&Perfect Absolute Belt%&%&1%&1%&120999999%&%&<br>----Potential----<br>Magic DEF: +1%, Weapon DEF: +5
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1012303%&Powerful Tree Branch Nose%&%&1%&1%&19999999%&%&<br>-----Hidden Potential----
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1232084%&Sweetwater Demon Sword%&%&1%&1%&59999999%&%&<br>
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&1%&1%&15000000%&%&<br>----Potential----<br>MaxHP: +2%, INT: +4, LUK: +4<br>Tagged By: JDPsyPhantom
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1032019%&Crystal Flower Earrings%&%&1%&1%&15000000%&%&<br>----Potential----<br>Avoidability: +20, MaxHP: +2%, INT: +3<br>Tagged By: JDSpawn
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&7000000%&%&<br>-----Hidden Potential----
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&7000000%&%&<br>-----Hidden Potential----
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1082488%&Dimension Gloves%&%&1%&1%&2000000%&%&<br>
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1082488%&Dimension Gloves%&%&SOLD%&1%&2000000%&%&<br>----Potential----<br>MaxHP: +120, Magic DEF: +60
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1050254%&Beryl Suit%&%&1%&1%&4000000%&%&<br>----Potential----<br>All Stats: +3%, MaxHP: +80, Magic DEF: +3%
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1072777%&Beryl Boots%&%&1%&1%&2000000%&%&<br>----Potential----<br>30% chance to ignore 35 damage when attacked, 20% chance to ignore 26 damage when attacked
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&1072777%&Beryl Boots%&%&SOLD%&1%&200000%&%&<br>----Potential----<br>20% chance to ignore 17 damage when attacked, Movement Speed: +6
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&4021040%&Dimension Fragment%&A fragment found in the space between Mirror World and Maple World. Used for making  Gold Label Knight Set  items.%&65%&1%&500000
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&4021020%&Confusion Fragment%&A fragment containing pure confusion. Don't ask how that works. There's a small chance of obtaining it by hunting Lv. 180 or higher monsters.%&2%&1%&19999999
+JDAltair%&%&Android n Stuffs%&Store Permit%&2%&1%&4021021%&Philosopher's Stone%&This odd stone looks solid but shifts like a liquid. It's chock full of Alchemical potential. There's a small chance of finding it by extracting Level 105 or higher equipment. The higher the equipment's level, the higher the chance.%&4%&1%&999999
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&2060000%&Arrow for Bow%&A barrel full of arrows. Only usable with bows.%&6982%&1%&1000000
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&1113051%&2013 Evolving Ring III (Tradable)%&%&1%&1%&99999999%&%&<br>
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&4020013%&Dream Fragment%&A fragment filled with dreams.%&72%&1%&2555555
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&1113049%&2013 Evolving Ring I (Tradable)%&%&1%&1%&35555555%&%&<br>
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&1113050%&2013 Evolving Ring II (Tradable)%&%&1%&1%&55555555%&%&<br>
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&2040516%&Scroll for Overall Armor for LUK 60%%&Improves Luck on overall armors.%&2%&1%&1888888
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&2430143%&Unidentified Love Letter%&A letter sent to you by an anonymous admirer. You can feel how much love was put into it...maybe you should open it...%&1%&1%&28888888
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&2044401%&Scroll for Pole Arm for ATT 60%%&Improves Weapon Attack on Polearms.%&1%&1%&1888888
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&2049100%&Chaos Scroll 60%%&Alters equipment for better or worse. Some stats are not affected. Cannot be used on Cash items.%&1%&1%&26999999
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&2511106%&Angelic Blessing Recipe%&A recipe for an Angelic Blessing.%&10%&1%&24888888
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&1372044%&Timeless Enreal Tear%&%&1%&1%&25555555%&%&<br>
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&1082148%&Purple Work Gloves%&%&1%&1%&25555555%&%&<br>
+scmklo%&%&ghk%&Mushroom Elf House%&2%&1%&1050100%&Bathrobe for Men%&%&1%&1%&5555555%&%&<br>
+Lapicara%&%&SELL GFA 60% AND EMPRESS THIEF%&Store Permit%&2%&1%&2040804%&Scroll for Gloves for ATT 60%%&Improves Attack on gloves.%&16%&1%&19999999
+Lapicara%&%&SELL GFA 60% AND EMPRESS THIEF%&Store Permit%&2%&1%&1072488%&Raven Horn Chaser Boots%&%&1%&1%&19999999%&%&<br>
+Lapicara%&%&SELL GFA 60% AND EMPRESS THIEF%&Store Permit%&2%&1%&1132244%&Solid Engraved Gollux Belt%&%&1%&1%&19999999%&%&<br>----Potential----<br>Magic DEF: +120, Magic DEF: +60
+DualStyleK%&EcheIon%&Coke Cane~%&Store Permit%&2%&1%&1092049%&Dragon Khanjar%&%&1%&1%&1300000000%&%&<br>----Potential----<br>All Stats: +6%, ATT: +6%, LUK: +6%<br>----Hidden Bonus Potential----
+DualStyleK%&EcheIon%&Coke Cane~%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&1%&1%&2222222222%&%&<br>----Potential----<br>All Stats: +4%, LUK: +6%, LUK: +4%<br><br>----Bonus Potential----<br>DEX : +11, Magic ATT: +3, Accuracy: +24<br>----Nebulite----<br>[B] LUK : +2%<br>Tagged By: GodOfStaves
+DualStyleK%&EcheIon%&Coke Cane~%&Store Permit%&2%&1%&1342010%&Moonshadow Katara%&%&1%&1%&95999999%&***** *%&<br>----Potential----<br>ATT: +12, Accuracy: +22<br><br>----Bonus Potential----<br>STR : +4%, LUK : +6, Avoidability: +24<br>----Nebulite----<br>[C] Ignores 15% of the enemy's DEF when attacking.
+DualStyleK%&EcheIon%&Coke Cane~%&Store Permit%&2%&1%&2022075%&Mini Coke%&A sweet, tasty, carbonated Coke featured in a Mini Can.  Attack +8, Magic Attack +8 for 20 minutes.%&1%&1%&50000000
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1112648%&Evolving Ring II Lv. 17 (Tradable)%&%&1%&1%&119999999%&%&<br>
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1112258%&Green Apple's Love Chat Ring%&%&1%&1%&115000000%&%&<br>
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1702423%&Goblin Fire%&%&1%&1%&629999999%&%&<br>
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1052571%&Dark Devil Outfit%&%&1%&1%&79999999%&%&<br>
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1060105%&Brown Osfa Pants%&%&1%&1%&14999999%&%&<br>----Potential----<br>Weapon DEF: +3%, LUK: +3%, Avoidability: +18<br>Tagged By: Theonecakee
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1432046%&Maplemas Tree%&%&1%&1%&14999999%&%&<br>
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1472122%&Raven Horn Metal Fist%&%&1%&1%&39999999%&%&<br>
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1102030%&Black Seraph Cape%&%&1%&1%&1999999%&%&<br>----Potential----<br>Weapon DEF: +2%, LUK: +8
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1032022%&Half Earrings%&%&1%&1%&3999999%&%&<br>----Potential----<br>INT: +2%, Magic DEF: +2%<br>Tagged By: AbadonJr
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1082283%&Strong Machine Gloves%&%&1%&1%&9999999%&%&<br>----Potential----<br>Weapon DEF: +90, Weapon DEF: +3%
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1472055%&Maple Skanda%&%&1%&1%&5999999%&*%&<br>----Potential----<br>3% chance to recover 20 MP when attacking, Avoidability: +12
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&2430937%&Double Maximus Mount Permanent Coupon%&Double-click to use [Double Maximus Mount] permanently from today. You can use Jag Jump on this mount even if you don't have the skill. %&1%&1%&49999999
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&4007005%&Magic Powder (Purple)%&A purple magic powder used for level 10 crafting.%&1%&1%&1499999
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&SOLD%&1%&949999
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&4021014%&Intermediate Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 70- 90 items.%&9%&1%&99999
+AbadonJr%&StrongWilled%&BEST PRICES IN ALL FM!!!!!! :DDDDD%&Store Permit%&2%&1%&1462039%&Dragon Shiner Cross%&%&1%&1%&1999999%&%&<br>-----Hidden Potential----
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1142205%&Forsythia Corsage%&%&1%&1%&2499999999%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1142204%&Azalea Corsage%&%&1%&1%&999999999%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1442190%&Super Summer Purple Surfboard%&%&1%&1%&399999999%&***** %&<br>----Potential----<br>Total Damage: +3%, DEX: +5
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1432046%&Maplemas Tree%&%&1%&1%&149999999%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1332032%&Christmas Tree%&%&1%&1%&124999999%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1112648%&Evolving Ring II Lv. 17 (Tradable)%&%&1%&1%&124999999%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1072777%&Beryl Boots%&%&1%&1%&39999999%&%&<br>----Potential----<br>STR: +6%, INT: +10
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1122014%&Silver Deputy Star%&%&1%&1%&39999999%&%&<br>----Potential----<br>All Stats: +3, Avoidability: +10, MaxMP: +25<br>----Hidden Bonus Potential----
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1112748%&Tempest Ring%&%&1%&1%&24999999%&%&<br>----Potential----<br>MaxHP: +6%, Weapon DEF: +100
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1112748%&Tempest Ring%&%&1%&1%&24999999%&%&<br>----Potential----<br>MaxHP: +6%, INT: +12
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1382098%&Last Unwelcome Guest Staff%&%&1%&1%&19999999%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1032023%&Strawberry Earrings%&%&1%&1%&7777777%&%&<br>----Potential----<br>LUK: +3%, LUK: +5, INT: +5
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1302081%&Timeless Executioner%&%&1%&1%&7777777%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1322160%&Lollistar%&%&1%&1%&7777777%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&1432157%&American Hot Dog%&%&1%&1%&7777777%&%&<br>
+4Davjd%&%&Cheap Deals! ~      L/O on Medals%&Mushroom Elf House%&2%&1%&2060000%&Arrow for Bow%&A barrel full of arrows. Only usable with bows.%&3738%&1%&99999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2040810%&Dark scroll for Gloves for ATT 70%%&Improves Attack on gloves.%&1%&1%&19999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&1232014%&Lionheart Painful Destiny%&%&1%&1%&99999999%&%&<br>----Potential----<br>DEX: +3%, DEX: +6
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&1212014%&Dragon Tail Thanatos%&%&1%&1%&49999999%&%&<br>-----Hidden Potential----
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&1003616%&Purple Senior Cap%&%&1%&1%&29999999%&%&<br>----Potential----<br>STR: +4%, STR: +4%
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&1052521%&Purple Senior Suit%&%&1%&1%&2999999%&%&<br>----Potential----<br>STR: +4%, Avoidability: +2%
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&1082483%&Purple Senior Gloves%&%&1%&1%&2999999%&%&<br>----Potential----<br>STR: +4%, Weapon DEF: +2%
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290742%&[Mastery Book] Dragon Barrage 30%&50% chance of increasing the Master Level of  Dragon Barrage  to 30. Job: Kaiser (4th) Condition: Skill Level 15+%&1%&1%&2999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290361%&[Mastery Book] Dark Metamorphosis 20%&70% chance of increasing the Master Level of  Dark Metamorphosis  to 20. Job: Demon Slayer Condition: Skill Level 5+%&1%&1%&2999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290520%&[Mastery Book] Tempest 30%&50% chance of increasing the Master Level of  Tempest  to 30. Job: Phantom (4th) Condition: Skill Level 15+%&1%&1%&2999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290148%&[Mastery Book] Dark Fog 20%&This book grants a 70% chance to raise the Mastery Level of  Dark Fog  to 20. Job: Evan Condition: Min Skill Lv. 5%&1%&1%&1999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290139%&[Mastery Book] Combo Barrier 30%&With a 50% success rate, raises the Mastery Level of  Combo Barrier  to 30. Job: Aran Condition: Min Skill Lv. 15%&1%&1%&1999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290127%&[Mastery Book] Overswing 30%&With a 50% success rate, raises the Mastery Level of  Overswing  to 30. Job: Aran Condition: Min Skill Lv. 15%&1%&1%&1999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290349%&[Mastery Book] Defense Break 20%&70% chance of increasing the Master Level of  Defense Break  to 20. Job: Mercedes (4th) Condition: Skill Level 5+%&1%&1%&1999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290347%&[Mastery Book] Dual Bowguns Expert 20%&70% chance of increasing the Master Level of  Dual Bowguns Expert  to 20. Job: Mercedes (4th) Condition: Skill Level 5+%&1%&1%&1999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290652%&[Mastery Book] Majestic Presence 30%&50% chance of increasing the Master Level of  Majestic Presence  to 30. Job: Jett Condition: Skill Level 15+%&1%&1%&1999999
+kailovelu%&Turning%&empress books%&Store Permit%&2%&1%&2290370%&[Mastery Book] Advanced Final Attack 20%&70% chance of increasing the Master Level of  Advanced Final Attack  to 20. Job: Wild Hunter (4th) Condition: Skill Level 5+%&1%&1%&1999999
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&SOLD%&1%&700000
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&4007005%&Magic Powder (Purple)%&A purple magic powder used for level 10 crafting.%&SOLD%&1%&800000
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&1372188%&Revolution Wand%&%&1%&1%&120000000%&%&<br>----Potential----<br>INT: +6%, LUK: +12
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&1050237%&Mesoranger Red Suit%&%&1%&1%&40000000%&%&<br>
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&1051287%&Mesoranger Pink Suit%&%&1%&1%&30000000%&%&<br>
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&4021041%&Cubic Blade%&A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and used for making Master Craftsman's Cubes.%&SOLD%&1%&7000000
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&4021042%&Cubic Chaos Blade%&A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and used for making Renowned Master Craftsman's Cubes.%&2%&1%&7000000
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&4021036%&Cube Fragment%&A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be received by extracting Master Craftsman's Cubes, and by mining and from mob/boss drops and used to make Master Craftsman's Cubes and Renowned Master Craftsman's Cubes.%&15%&1%&240000
+Octocoptero%&Bebbanburg%&Cheap%&Store Permit%&2%&1%&4020009%&Piece of Time%&A raw ore of a gem that contains the power of time.%&7%&1%&10000000
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&3010114%&Lord Pirate Chair%&Sit on this Lord Pirate chair to recover 50 HP every 10 seconds.%&1%&1%&9999999
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&4021022%&Primal Essence%&They say this stone dates back to the very formation of the world. Then again, they say lots of things. Occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, Mysterious Legendary Ore Veins, Mysterious Herbs, and Mysterious Legendary Herbs.%&1%&1%&44000000
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&4330014%&12 Slot Herb Bag%&A 12 slot bag for herbs and first-phase oil.%&1%&1%&19999999
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&4021042%&Cubic Chaos Blade%&A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and used for making Renowned Master Craftsman's Cubes.%&1%&1%&9000000
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&4021041%&Cubic Blade%&A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and used for making Master Craftsman's Cubes.%&1%&1%&9000000
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&4005003%&LUK Crystal%&A mysterious crystal that holds great luck. Used for level 10 equipment, accessory, and alchemy crafting.%&100%&1%&999999
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&4021008%&Black Crystal%&A dark power sleeps within this rare crystal. Used for level 9 equipment, accessory, and alchemy crafting.%&200%&1%&999999
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&2213016%&Hodori Transform Potion%&An alchemical potion that transforms you into a Hodori. Lasts for 10 min.  * Warning: You can't use ladders or ropes while transformed. %&1%&1%&99999
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1052647%&Revolution Suit%&%&1%&1%&40000000%&%&<br>----Potential----<br>Abnormal Status Duration: -2 sec, DEX: +12
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1082540%&Revolution Gloves%&%&1%&1%&70000000%&%&<br>----Potential----<br>DEX: +6%, LUK: +12, LUK: +3%
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1072853%&Revolution Shoes%&%&1%&1%&70000000%&%&<br>----Potential----<br>LUK: +6%, Magic DEF: +3%
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1041120%&Purple Valkyrie%&%&1%&1%&99999%&%&<br>-----Hidden Potential----
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1012438%&Sweetwater Tattoo%&%&1%&1%&650000000%&%&<br>----Potential----<br>MaxHP: +7%, LUK: +4%, STR: +13
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1032093%&Rising Sun Earrings%&%&1%&1%&1500000000%&%&<br>----Potential----<br>DEX: +6%, DEX: +6%
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&1522055%&Legendary Maple Majesty%&%&1%&1%&999000%&%&<br>----Potential----<br>DEX: +3%, 3% chance to recover 24 HP when attacking
+maza26%&OverElite%&rock me%&Store Permit%&2%&1%&2290689%&[Mastery Book] Battle Rage 20%&70% chance of increasing the Master Level of  Battle Rage  to 20. Job: Battle Mage (4th) Condition: Skill Level 5+%&1%&1%&600000
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1022082%&Spectrum Goggles%&%&1%&1%&699999999%&%&<br>----Potential----<br>STR: +8, LUK: +8, Magic DEF: +35
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1112252%&Red Rose Chat Ring%&%&1%&1%&299999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1050227%&Mint Snow Outfit%&%&1%&1%&189999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1102270%&Moon and Sun Cape%&%&1%&1%&149999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&3010058%&World's End%&You will recover 50 HP every 10 seconds. Perhaps, as you recline, you will find the answer to many of life's questions.%&1%&1%&149999999
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1003760%&Kitty Headphones%&%&1%&1%&79999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1052416%&Orchid's Black Wing Uniform%&%&1%&1%&79999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1003759%&Blue Point Kitty Hat%&%&1%&1%&69999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1052604%&Blue Love Dress%&%&1%&1%&69999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1102378%&Psyche Melody%&%&1%&1%&69999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1070020%&Twinkling Boy Glow Shoes%&%&1%&1%&14999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1362016%&Timeless Persona%&%&1%&1%&9999999%&%&<br>
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1082164%&Blue Elemental Gloves%&%&1%&1%&14999999%&%&<br>----Potential----<br>Weapon DEF: +110, MaxMP: +55, Avoidability: +3%
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&1382222%&Revolution Koras%&%&1%&1%&14999999%&*%&<br>----Potential----<br>Ignores 15% of the enemy's DEF when attacking, MaxMP: +100
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&3010590%&Sweet Sugar Chair%&Sit on this chair to receive about a hundred cavities. Recovers 100 HP and MP every 10 seconds.  This chair moves with the sitter due to its bottom-hugging construction. %&1%&1%&39999999
+Doodbriefje%&ArchitectsUK%&Spec,NX and More%&Store Permit%&2%&1%&3010421%&Big Money Chair%&Everybody's a billionaire in this chair! Recovers 100 HP and 50 MP every 10 seconds. %&1%&1%&14999999
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1472122%&Raven Horn Metal Fist%&%&1%&1%&29999999%&%&<br>
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1042256%&Eagle Eye Ranger Hood%&%&1%&1%&99999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1102277%&Falcon Wing Sentinel Cape%&%&1%&1%&89999999%&%&<br>
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1003172%&Lionheart Battle Helm%&%&1%&1%&19999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1072488%&Raven Horn Chaser Boots%&%&1%&1%&19999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1082295%&Lionheart Battle Bracers%&%&1%&1%&19999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1082298%&Raven Horn Chaser Gloves%&%&1%&1%&14999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1052317%&Raven Horn Chaser Armor%&%&1%&1%&14999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1082299%&Shark Tooth Skipper Gloves%&%&1%&1%&9999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1072489%&Shark Tooth Skipper Boots%&%&1%&1%&9999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1522018%&Falcon Wing Dual Bowguns%&%&1%&1%&9999999%&%&<br>
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1372084%&Dragon Tail Arc Wand%&%&1%&1%&9999999%&%&<br>
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1302152%&Lionheart Cutlass%&%&1%&1%&9999999%&%&<br>
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1342036%&Raven Horn Shadow Katara%&%&1%&1%&9999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1442116%&Lionheart Partisan%&%&1%&1%&9999999%&%&<br>-----Hidden Potential----
+MaykayIa%&%&Cheap Empress<<> Armors%&Mushroom Elf House%&2%&1%&1442116%&Lionheart Partisan%&%&1%&1%&9999999%&%&<br>-----Hidden Potential----
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&1132245%&Reinforced Engraved Gollux Belt%&%&1%&1%&4555555555%&%&<br>----Potential----<br>DEX: +9%, DEX: +9%, DEX: +6%<br>----Hidden Bonus Potential----<br>----Nebulite----<br>[A] All Stats : +4%
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&1003797%&Royal Warrior Helm%&%&1%&1%&655555555%&%&<br>-----Hidden Potential----
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&1122266%&Reinforced Engraved Gollux Pendant%&%&1%&1%&139999999%&%&<br>
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&2000005%&Power Elixir%&This potion is truly legendary.  Recovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999.%&300%&1%&5222
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&2000005%&Power Elixir%&This potion is truly legendary.  Recovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999.%&300%&1%&5222
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&2000005%&Power Elixir%&This potion is truly legendary.  Recovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999.%&300%&1%&5222
+SpwradSagi%&Spwrad%&s%&Store Permit%&2%&2%&2000005%&Power Elixir%&This potion is truly legendary.  Recovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999.%&300%&1%&5222
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&1102452%&Fairy Aura%&%&1%&1%&250000000%&%&<br>
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&1132243%&Cracked Engraved Gollux Belt%&%&1%&1%&15000000%&%&<br>-----Hidden Potential----
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&1342010%&Moonshadow Katara%&%&1%&1%&80000000%&%&<br>-----Hidden Potential--------Hidden Bonus Potential--------Nebulite----<br>[C] Critical Rate : +4%
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&1482136%&Necro Wolf%&%&1%&1%&5000000%&%&<br>-----Hidden Potential----
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&2022900%&Legendary Coin Cake Buff%&How lucky you are! Weapon/Magic ATT +10, HP/MP +100, and Speed +20 for 30 minutes.Can be stacked with other buffs, aside from Legendary Coin Cake Buff.%&1%&14%&150000000
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&2870295%&Big Spider Familiar%&%&1%&1%&9000000
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&4021036%&Cube Fragment%&A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be received by extracting Master Craftsman's Cubes, and by mining and from mob/boss drops and used to make Master Craftsman's Cubes and Renowned Master Craftsman's Cubes.%&46%&2%&550000
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&4021014%&Intermediate Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 70- 90 items.%&49%&1%&450000
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&4001523%&7th Anniversary Maple Leaf%&A beautiful red maple leaf.  Can only be used during the 7th Anniversary Event. %&1%&233%&800000000
+rony200%&%&Please buy :'(%&Mushroom Elf House%&2%&2%&4021015%&Advanced Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 100- 120 items.%&1%&119%&100000000
+MYYIRAN%&%&321%&Mushroom Elf House%&2%&2%&1072488%&Raven Horn Chaser Boots%&%&1%&1%&1499999999%&%&<br>-----Hidden Potential----<br>----Nebulite----<br>[B] All Stats : +2%
+MYYIRAN%&%&321%&Mushroom Elf House%&2%&2%&1132246%&Superior Engraved Gollux Belt%&%&1%&1%&1999999999%&%&<br>----Potential----<br>Magic DEF: +3%, MaxMP: +60, INT: +6
+MYYIRAN%&%&321%&Mushroom Elf House%&2%&2%&1022082%&Spectrum Goggles%&%&1%&1%&4499999999%&*%&<br>-----Hidden Potential----<br>----Nebulite----<br>[A] All Stats : +4%
+MYYIRAN%&%&321%&Mushroom Elf House%&2%&2%&1032223%&Superior Gollux Earrings%&%&1%&1%&6499999999%&%&<br>----Potential----<br>STR: +9%, All Stats: +3%, STR: +6%
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2940000%&Star Dust%&Sprinkle some of this dust on Jett's Core to randomly reconfigure its stats. If Jett is at least Lv. 120 and the Core has been completed, this dust also has a chance to randomly increase or decrease stat ranks.%&1%&1%&99999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2943000%&Cosmos Dust Solidifier%&Solidifies the effects of Star or Supernova Dust by locking the Core's current stats for 7 days. Cosmic Dust Solidifier can only be used to lock the current configuration once.   Warning: The stat lock will be overwritten if you use an item to reconfigure the Core's stats. %&28%&1%&99999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2070003%&Kumbi Throwing-Stars%&Throwing stars made of steel. Once they run out, they need to be recharged.  Attack 21%&1%&1%&749999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&4999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2870132%&Zombie Lupin Familiar%&%&1%&1%&499999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2870117%&Cherry Bubble Tea Familiar%&%&1%&1%&499999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&1462136%&Legendary Maple Stormdriver%&%&1%&1%&1499999%&%&<br>----Potential----<br>3% chance to recover 41 HP when attacking, DEX: +10, LUK: +3%
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&1462018%&Casa Crow%&%&1%&1%&999999%&%&<br>----Potential----<br>ATT: +10, 5% chance to apply Lv 2 Stun when attacking
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&1492098%&Crimson Maple Firerunner%&%&1%&1%&399999%&%&<br>----Potential----<br>Avoidability: +4%, LUK: +8
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&1482120%&Legendary Maple Quaker%&%&1%&1%&399999%&%&<br>----Potential----<br>STR: +10, Avoidability: +16
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&1472033%&Casters%&%&1%&1%&499999%&%&<br>----Potential----<br>Avoidability: +3%, STR: +5
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&1472159%&Legendary Maple Soulchaser%&%&1%&1%&399999%&%&<br>----Potential----<br>Avoidability: +32, MaxHP: +40
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&4006000%&The Magic Rock%&A mythical rock with the power of magic in it. Used with high-leveled skills.%&100%&1%&7999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&4999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&4999
+PiranhasWar%&%&All Cure & Stuff &Weapons%&Mushroom Elf House%&2%&2%&2050004%&All Cure Potion%&Allows you to recover from any abnormal state.%&100%&1%&4999

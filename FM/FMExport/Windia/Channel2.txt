@@ -1,0 +1,118 @@
+January 29, 2014 10:21:10 AM%&
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1132245%&Reinforced Engraved Gollux Belt%&%&1%&1%&249999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1122265%&Solid Engraved Gollux Pendant%&%&1%&1%&14999999%&%&<br>-----Hidden Potential----
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&7777777%&%&<br>-----Hidden Potential----
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1132243%&Cracked Engraved Gollux Belt%&%&1%&1%&3999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1132243%&Cracked Engraved Gollux Belt%&%&1%&1%&3999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1082477%&Mesoranger Gloves%&%&1%&1%&4999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1072718%&Mesoranger Boots%&%&1%&1%&4999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1082488%&Dimension Gloves%&%&1%&1%&4999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&8999999%&%&<br>
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&4021041%&Cubic Blade%&A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and used for making Master Craftsman's Cubes.%&15%&1%&11499999
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&4021042%&Cubic Chaos Blade%&A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and used for making Renowned Master Craftsman's Cubes.%&3%&1%&11999999
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&151%&1%&1299999
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&4021015%&Advanced Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 100- 120 items.%&408%&1%&299999
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&4007005%&Magic Powder (Purple)%&A purple magic powder used for level 10 crafting.%&86%&1%&3699999
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&2470001%&Golden Hammer 50%%&A hammer that provides you a 50% chance to apply one additional scroll to your equipment item. Only 1 hammer can be used per item, and any failed attempts will cost 1 upgrade slot.%&12%&1%&26999999
+X3AngelXII%&RawrBuddies%&Gollux\ Crafting\ Hammers%&Store Permit%&2%&1%&4001796%&Eye of Fire Chunk%&A chunk of Zakum Tree. You can sacrifice this at the altar to summon Crumbling Zakum.%&75%&1%&2499999
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1672028%&Beryl Heart%&%&1%&1%&1499999999%&%&<br>----Potential----<br>STR: +4, Avoidability: +6, Magic DEF: +15
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1102275%&Lionheart Battle Cape%&%&1%&1%&649999999%&%&<br>-----Hidden Potential----
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1102028%&Red Seraph Cape%&%&1%&1%&8888888%&%&<br>----Potential----<br>LUK: +2%, Avoidability: +14
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1362074%&Loveless Persona%&%&1%&1%&2999999999%&***** **%&<br>----Potential----<br>LUK: +9%, INT: +6%<br><br>----Bonus Potential----<br>LUK : +4, MaxHP : +15, Magic DEF: +15
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1302152%&Lionheart Cutlass%&%&1%&1%&749999999%&%&<br>----Potential----<br>3% chance to recover 53 HP when attacking, Ignores 15% of the enemy's DEF when attacking<br><br>----Bonus Potential----<br>LUK : +4, Movement Speed: +1, Jump: +1
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1052317%&Raven Horn Chaser Armor%&%&1%&1%&699999999%&%&<br>-----Hidden Potential----
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1012303%&Powerful Tree Branch Nose%&%&1%&1%&34999999%&%&<br>----Potential----<br>Weapon DEF: +1%, MaxMP: +5<br>----Hidden Bonus Potential----
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1012305%&Wise Tree Branch Nose%&%&1%&1%&24999999%&%&<br>----Potential----<br>DEX: +2, STR: +2<br>Tagged By: RUKangaroo
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1252010%&Dragon Kitty Soul Scepter%&%&1%&1%&4999999%&%&<br>
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1252010%&Dragon Kitty Soul Scepter%&%&1%&1%&4999999%&%&<br>-----Hidden Potential----
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1052076%&Blue Czar%&%&1%&1%&999999%&%&<br>
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&1003692%&Spiderweb Pointy Hat%&%&1%&1%&99999999%&%&<br>----Potential----<br>Accuracy: +20, 10% chance to feel happy for 10 seconds when attack, LUK: +3
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&2870242%&Mr. Alli Familiar%&%&1%&1%&8888888
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&2870455%&Mutant Ribbon Pig Familiar%&%&1%&1%&14999999
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&2330005%&Eternal Bullet%&Bullets made of steel. Once they run out, they need to be recharged.  Attack +20%&1%&1%&6666666
+kaiserBlueMM%&Celerity%&b/o afk%&Store Permit%&2%&1%&4005002%&DEX Crystal%&A mysterious crystal that holds great dexterity. Used for level 5 equipment, accessory, and alchemy crafting.%&26%&1%&399999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&2003550%&EXP Accumulation Potion%&A mysterious potion created through Alchemy. Increases EXP by 10% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once.%&10%&1%&6499999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&2003550%&EXP Accumulation Potion%&A mysterious potion created through Alchemy. Increases EXP by 10% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once.%&10%&1%&6499999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&2003550%&EXP Accumulation Potion%&A mysterious potion created through Alchemy. Increases EXP by 10% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once.%&10%&1%&6499999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&2003550%&EXP Accumulation Potion%&A mysterious potion created through Alchemy. Increases EXP by 10% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once.%&10%&1%&6499999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&2003512%&Advanced Intelligence Boost Potion%&A mysterious potion created through Alchemy. Increases INT by 60 for 2 hours. However, you can only use 1 potion at a time.%&10%&1%&1299999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330015%&12 Slot Mineral Bag%&A 12 slot bag for first-phase minerals and jewels.%&1%&1%&49999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330015%&12 Slot Mineral Bag%&A 12 slot bag for first-phase minerals and jewels.%&1%&1%&49999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330015%&12 Slot Mineral Bag%&A 12 slot bag for first-phase minerals and jewels.%&1%&1%&49999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330007%&8 Slot Mineral Bag%&A 8 slot bag for first-phase minerals and jewels.%&1%&1%&19999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330007%&8 Slot Mineral Bag%&A 8 slot bag for first-phase minerals and jewels.%&1%&1%&19999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330007%&8 Slot Mineral Bag%&A 8 slot bag for first-phase minerals and jewels.%&1%&1%&19999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330007%&8 Slot Mineral Bag%&A 8 slot bag for first-phase minerals and jewels.%&1%&1%&19999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330007%&8 Slot Mineral Bag%&A 8 slot bag for first-phase minerals and jewels.%&1%&1%&19999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4330006%&6 Slot Mineral Bag%&A 6 slot bag for first-phase minerals and jewels.%&1%&1%&9999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4032933%&Rose Clipping%&A bit of fragrant rose.%&1%&1%&34999999
+MysticFates%&Majestix%&** Mystic's Shop **%&Store Permit%&2%&1%&4023020%&Juniper Berry Flower Oil%&Juniper berry flower oil. Used in Lv. 10 Alchemy.%&1000%&1%&99999
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1000044%&Twinkling Boy Hat%&%&1%&1%&90000000%&%&<br>
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1072771%&Slither Style High-Tops%&%&1%&1%&45000000%&%&<br>
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1052236%&Petite School Shawl%&%&1%&1%&49999999%&%&<br>
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1003790%&Visor%&%&1%&1%&24000000%&%&<br>
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1003984%&Commerci Hat%&%&1%&1%&10000000%&%&<br>----Potential----<br>All Stats: +5, Avoidability: +24, Weapon DEF: +120
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1082488%&Dimension Gloves%&%&1%&1%&5000000%&%&<br>----Potential----<br>Magic DEF: +120, STR: +6
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&2511130%&Dominator Pendant Recipe%&A recipe for a Dominator Pendant.%&1%&1%&500000000
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&2430936%&Double Bear Hot-Air Balloon Mount Permanent Coupon%&Double-click to use [Double Bear Hot-Air Balloon Mount] permanently from today. You can use Jag Jump on this mount even if you don't have the skill. %&1%&1%&20000000
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1032018%&Pansy Earrings%&%&1%&1%&2000000%&%&<br>----Potential----<br>Magic DEF: +2%, INT: +2%<br>Tagged By: 2seek1soul
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1302023%&Fraute%&%&1%&1%&5000000%&%&<br>----Potential----<br>Critical Rate: +4%, STR: +5
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1312098%&Legendary Maple Skyrender%&%&1%&1%&3000000%&%&<br>----Potential----<br>5% chance to apply Lv 2 Freeze when attacking, DEX: +5
+PlaSosMAN%&ShinyStyle%&NX AND GOOD ITEM%&Store Permit%&2%&1%&1402036%&Dragon Claymore%&%&1%&1%&15000000%&%&<br>----Potential----<br>Total Damage: +3%, Avoidability: +22
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&3010786%&Stork Swing%&Careful! Don't wiggle too much or the stork'll drop you! Restores 50 HP and 50 MP every 10 seconds.%&SOLD%&1%&64999999
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&2430315%&Nina's Pentacle Coupon%&Teaches you the [Nina's Pentacle] riding skill. %&1%&1%&64999999
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1003519%&Sunset-colored Straw Hat%&%&SOLD%&1%&19999999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1132243%&Cracked Engraved Gollux Belt%&%&1%&1%&14999999%&%&<br>----Potential----<br>LUK: +3%, MaxHP: +60
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&2049301%&Equip Enhancement Scroll%&Enhances  upgraded equipment . More successes increase the chance of a good enhancement. The item is destroyed upon failure.   [Enhancement Success Rate]  1 success: 80% 2 successes: 70% 3 successes: 60% 4 successes: 50% 5 successes: 40% 6 successes: 30% 7 successes: 20% 8 successes: 10% 9+ successes: 5% or lower%&SOLD%&1%&999999
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1132243%&Cracked Engraved Gollux Belt%&%&1%&1%&4599999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&4599999%&%&<br>----Potential----<br>Recover 24 MP every 4 seconds, MaxMP: +3%
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1032017%&Rose Earrings%&%&1%&1%&4599999%&%&<br>----Potential----<br>Magic DEF: +3%, DEX: +3%
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1003718%&Vellum's Helm%&%&1%&1%&4599999%&%&<br>----Potential----<br>MaxHP: +3%, MaxMP: +50
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1382057%&Timeless Aeas Hand%&%&1%&1%&2499999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1402046%&Timeless Nibleheim%&%&1%&1%&2499999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1322061%&Reverse Allargando%&%&1%&1%&2499999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1082488%&Dimension Gloves%&%&1%&1%&7999999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1002326%&Red Osfa Hat%&%&1%&1%&12999999%&%&<br>----Potential----<br>LUK: +3%, DEX: +5
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&1302063%&Flaming Katana%&%&1%&1%&7999999%&%&<br>
+HotDreadz%&StripperCity%&Mount, Chair, Nx all Perm 1 meso%&Store Permit%&2%&1%&3010279%&Halloween Pumpkin Chair%&A pumpkin-shaped chair made to celebrate Halloween. Recovers 50 HP every 10 seconds.%&1%&1%&2999999
+MirVam%&%&hi%&Store Permit%&2%&1%&1122264%&Cracked Engraved Gollux Pendant%&%&1%&1%&12000000%&%&<br>-----Hidden Potential----
+MirVam%&%&hi%&Store Permit%&2%&1%&1082559%&Commerci Gloves%&%&1%&1%&9500000%&%&<br>
+MirVam%&%&hi%&Store Permit%&2%&1%&1052673%&Commerci Suit%&%&1%&1%&9500000%&%&<br>
+MirVam%&%&hi%&Store Permit%&2%&1%&1003027%&Talking Witch Hat%&%&1%&1%&3500000%&%&<br>
+MirVam%&%&hi%&Store Permit%&2%&1%&1312174%&Commerci Axe%&%&1%&1%&24900000%&%&<br>
+MirVam%&%&hi%&Store Permit%&2%&1%&2000005%&Power Elixir%&This potion is truly legendary.  Recovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999.%&300%&1%&9900
+MirVam%&%&hi%&Store Permit%&2%&1%&2022179%&Onyx Apple%&A rare, ripe apple imbued with power. Recovers 90% HP & MP, and provides +100 W.Att, +100 M.Att, +20 Def for 10 minutes.%&5%&1%&35000000
+MirVam%&%&hi%&Store Permit%&2%&1%&2430733%&Funkmageddon Alley Ticket%&The evil hip-hop super squad, De La Meow, has taken over Kerning City's back alleys! Take those ruckus making hooligans down!  Double-click to travel to Funkmageddon Alley, where they were last spotted busting illicit rhymes. %&2%&1%&75000000
+MirVam%&%&hi%&Store Permit%&2%&1%&4330025%&12 Slot Mineral Bag%&A 12 slot bag for first-phase minerals and jewels.%&1%&1%&45000000
+MirVam%&%&hi%&Store Permit%&2%&1%&4011002%&Mithril Plate%&Solid, light, refined mithril. Used for level 5 equipment, accessory, and alchemy crafting.%&45%&1%&350000
+MirVam%&%&hi%&Store Permit%&2%&1%&4005004%&Dark Crystal%&A mysterious crystal that holds great darkness. Used for level 9 equipment, accessory, and alchemy crafting.%&21%&1%&850000
+MirVam%&%&hi%&Store Permit%&2%&1%&4021008%&Black Crystal%&A dark power sleeps within this rare crystal. Used for level 9 equipment, accessory, and alchemy crafting.%&15%&1%&850000
+MirVam%&%&hi%&Store Permit%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&8%&1%&999999
+MirVam%&%&hi%&Store Permit%&2%&1%&4021015%&Advanced Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 100- 120 items.%&116%&1%&110000
+MirVam%&%&hi%&Store Permit%&2%&1%&4021036%&Cube Fragment%&A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be received by extracting Master Craftsman's Cubes, and by mining and from mob/boss drops and used to make Master Craftsman's Cubes and Renowned Master Craftsman's Cubes.%&78%&1%&350000
+MirVam%&%&hi%&Store Permit%&2%&1%&2290067%&[Mastery Book] Marksman Boost%&This increases the master level of  Marksman Boost  up to 30 with 50% of chance. Class : Marksman Condition : Skill level above 15%&1%&1%&950000
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1003279%&Chain Crusher Cap%&%&1%&1%&55000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1002720%&Lovely Christmas%&%&1%&1%&300000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1702211%&Blizzard Stick%&%&1%&1%&295000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1052047%&Black Snowboard Overall%&%&1%&1%&290000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1002929%&Colorful Striped Beanie%&%&1%&1%&120000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1702166%&Holiday Candy Cane%&%&1%&1%&99999999%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1062163%&Slither Style Pants%&%&1%&1%&33000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1003909%&Pink Soda Cap%&%&1%&1%&599999999%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1050284%&Golden Bell Outfit%&%&1%&1%&80000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1032175%&Faraway Earring%&%&1%&1%&195000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1003830%&Blue Love Bonnet%&%&1%&1%&40000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1050242%&Opening Star%&%&1%&1%&85000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1052236%&Petite School Shawl%&%&1%&1%&35000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&1060179%&Golf Shorts%&%&SOLD%&1%&45000000%&%&<br>
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&4021016%&Superior Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items.%&SOLD%&1%&999999
+iFreide%&%&Red Velvet Ice Cream... WHA???%&Mushroom Elf House%&2%&1%&4021015%&Advanced Item Crystal%&A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 100- 120 items.%&303%&1%&109000
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&1012306%&Lucky Tree Branch Nose%&%&1%&1%&1333333333%&*%&<br>----Potential----<br>Avoidability: +3%, LUK: +2%, Magic DEF: +2%<br><br>----Bonus Potential----<br>MaxMP : +125, ATT: +3, Magic ATT: +3<br>----Nebulite----<br>[C] LUK : +1%
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&1012199%&Quality Purple Mask%&%&1%&1%&99999999%&%&<br>
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&1012199%&Quality Purple Mask%&%&1%&1%&99999999%&%&<br>
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&1003693%&Mini Pumpkin Pointy Hat%&%&1%&1%&49999999%&%&<br>
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&1012306%&Lucky Tree Branch Nose%&%&1%&1%&99999999%&%&<br>-----Hidden Potential----Tagged By: TicketStar
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&2046103%&Scroll for Two-Handed Weapon for MAGIC ATT 50%%&Improves Magic Attack on Two-Handed weapons.%&1%&1%&29999999
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&3010125%&Nibelung Battleship Chair%&A futuristic chair that people in Neo City ride. It recovers 40 HP every 10 seconds.%&1%&1%&29999999
+TicketsRus%&%&RAT MOUTH%&Mushroom Elf House%&2%&1%&3010355%&Galacto-Drill Chair
+%&The Galacto-Drill Chair is surprisingly comfortable, despite the fact that it was made for alien bottoms. Recovers 50 HP and 50 MP every 10 seconds. %&1%&1%&19999999
