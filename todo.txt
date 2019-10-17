@@ -1,0 +1,18 @@
+----To Do-----
+Updated:  1/25/2014 @ 1:08 am
+------------------
+
+ - Forgot Password Page
+ - Subscription page / possibly form for meso purchase
+ - Profile Settings Page / Snipe mode
+ - Change Welcome Image <-- ALL YOU CAM
+ - Fix Final Bugs
+
+------------------
+
+
+Completed Since you last checked
+ - Update / Add Administrator Panel
+ - Addition of MD5 Hash passwords / cookies
+ - Fix the Owl Images not showing up
+ - Release Site
