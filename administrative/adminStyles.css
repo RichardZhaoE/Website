@@ -1,0 +1,84 @@
+
+ul#navigation .admin a    {
+    background-image: url(../images/nav/process.png);
+}
+
+.adminTable {
+	width: 100%;
+}
+.adminTable table
+{
+	width:100%;
+	height:auto;
+	margin:0px;
+	padding:0px;
+}
+.adminTable tr:nth-child(even)
+{ 
+	background-color: #b8d1f3;;
+}
+.adminTable tr:last-child td:last-child 
+{
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.adminTable table tr:first-child td:first-child 
+{
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+
+.adminTable table tr:first-child td:last-child 
+{
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+}
+
+.adminTable tr:last-child td:first-child
+{
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+}
+
+.adminTable tr:hover td
+{
+	background-color:transparent;	
+}
+.adminTable td{
+	vertical-align:middle;
+	background-color:transparent;
+	text-align:center;
+	padding:3px;
+	min-width: 40px;
+	width: auto;
+	font-size:10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#000000;
+
+}.adminTable tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.adminTable tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.adminTable tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.adminTable tr:first-child td{
+	background-color:transparent;
+	text-align:center;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000000;
+}
+.adminTable tr:first-child:hover td{
+	background-color:transparent;
+}
+
+.listButton
+{
+	width: 400px;
+}
